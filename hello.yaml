@@ -1,0 +1,11 @@
+---
+on: 
+
+  push: 
+     branchces :
+       -devlop
+
+jobs: 
+ build:
+   run-on :
+   
